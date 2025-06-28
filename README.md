@@ -25,7 +25,7 @@ A simple web application that predicts whether a person is an **Introvert** or a
   * **Social Media Post Frequency** (per week)
 * Includes animations, gradients, and validation.
 
-![Form UI Example](https://via.placeholder.com/600x300?text=Form+UI+Screenshot)
+"C:\Users\sahal\OneDrive\Pictures\Screenshots 1\Screenshot 2025-06-28 142704.png"
 
 ### 📊 Result Page (`result.html`)
 
