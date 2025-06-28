@@ -25,16 +25,19 @@ A simple web application that predicts whether a person is an **Introvert** or a
   * **Social Media Post Frequency** (per week)
 * Includes animations, gradients, and validation.
 
-"C:\Users\sahal\OneDrive\Pictures\Screenshots 1\Screenshot 2025-06-28 142704.png"
+![Screenshot 2025-06-28 142704](https://github.com/user-attachments/assets/e1d32403-8885-43fa-aad3-df6fb94b0b85)
+
 
 ### 📊 Result Page (`result.html`)
 
 * Displays prediction as either **Extrovert** or **Introvert** with distinct styles:
 
   * **Extrovert** → pink gradient background
-  * **Introvert** → blue/green gradient background
+![Screenshot 2025-06-28 143413](https://github.com/user-attachments/assets/b6d23a93-538a-4723-a2ee-b7175da7a91e)
 
-![Result UI Example](https://via.placeholder.com/600x300?text=Result+UI+Screenshot)
+  * **Introvert** → blue/green gradient background
+![Screenshot 2025-06-28 143139](https://github.com/user-attachments/assets/4b14b039-ebd4-476f-b9a4-e29982fab715)
+
 
 ---
 
@@ -138,4 +141,4 @@ This project is open-source and free to use under the MIT License.
 
 ---
 
-> Created with 💙 by \[Your Name / Team Name]
+> Created with 💙 by \[MUHAMMED SAHAL KK]
